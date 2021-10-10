@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main()
 {
-	int proc[20],bt[10],wt[10],tat[10],tot_tat,tot_wt,i,j,lim;
+	int proc[20],bt[10],wt[10],tat[10],total_tat,total_wt,i,j,lim;
 	printf("\nEnter no. of proccesses: ");
 	scanf("%d", &lim);
 	for(i=0;i<lim;i++)
